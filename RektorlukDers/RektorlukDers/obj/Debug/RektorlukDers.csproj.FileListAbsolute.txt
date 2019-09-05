@@ -1,0 +1,30 @@
+c:\users\administrator\documents\visual studio 2013\Projects\RektorlukDers\RektorlukDers\bin\RektorlukDers.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\RektorlukDers\RektorlukDers\bin\RektorlukDers.dll
+c:\users\administrator\documents\visual studio 2013\Projects\RektorlukDers\RektorlukDers\bin\RektorlukDers.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\RektorlukDers\RektorlukDers\obj\Debug\RektorlukDers.dll
+c:\users\administrator\documents\visual studio 2013\Projects\RektorlukDers\RektorlukDers\obj\Debug\RektorlukDers.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\RektorlukDers\RektorlukDers\obj\Debug\RektorlukDers.csprojResolveAssemblyReference.cache
+C:\Users\EB\Downloads\Rektorluk_Proje_Class-master\Rektorluk_Proje_Class-master\RektorlukProje\RektorlukDers\RektorlukDers\RektorlukDers\obj\Debug\RektorlukDers.csprojResolveAssemblyReference.cache
+C:\Users\EB\Downloads\Rektorluk_Proje_Class-master\Rektorluk_Proje_Class-master\RektorlukProje\RektorlukDers\RektorlukDers\RektorlukDers\obj\Debug\RektorlukDers.dll
+C:\Users\EB\Downloads\Rektorluk_Proje_Class-master\Rektorluk_Proje_Class-master\RektorlukProje\RektorlukDers\RektorlukDers\RektorlukDers\bin\RektorlukDers.dll.config
+C:\Users\EB\Downloads\Rektorluk_Proje_Class-master\Rektorluk_Proje_Class-master\RektorlukProje\RektorlukDers\RektorlukDers\RektorlukDers\bin\RektorlukDers.dll
+C:\Users\EB\Downloads\Rektorluk_Proje_Class-master\Rektorluk_Proje_Class-master\RektorlukProje\RektorlukDers\RektorlukDers\RektorlukDers\bin\RektorlukDers.pdb
+C:\Users\EB\Downloads\Rektorluk_Proje_Class-master\Rektorluk_Proje_Class-master\RektorlukProje\RektorlukDers\RektorlukDers\RektorlukDers\obj\Debug\RektorlukDers.pdb
+C:\Users\Administrator\Desktop\RektorlukDers\RektorlukDers\RektorlukDers\bin\RektorlukDers.dll.config
+C:\Users\Administrator\Desktop\RektorlukDers\RektorlukDers\RektorlukDers\bin\RektorlukDers.dll
+C:\Users\Administrator\Desktop\RektorlukDers\RektorlukDers\RektorlukDers\bin\RektorlukDers.pdb
+C:\Users\Administrator\Desktop\RektorlukDers\RektorlukDers\RektorlukDers\obj\Debug\RektorlukDers.dll
+C:\Users\Administrator\Desktop\RektorlukDers\RektorlukDers\RektorlukDers\obj\Debug\RektorlukDers.pdb
+C:\Users\Administrator\Desktop\RektorlukDers\RektorlukDers\RektorlukDers\obj\Debug\RektorlukDers.csprojResolveAssemblyReference.cache
+C:\Users\emirh\OneDrive\Masaüstü\RektorlukDers\RektorlukDers\bin\RektorlukDers.dll.config
+C:\Users\emirh\OneDrive\Masaüstü\RektorlukDers\RektorlukDers\bin\RektorlukDers.dll
+C:\Users\emirh\OneDrive\Masaüstü\RektorlukDers\RektorlukDers\bin\RektorlukDers.pdb
+C:\Users\emirh\OneDrive\Masaüstü\RektorlukDers\RektorlukDers\obj\Debug\RektorlukDers.csprojResolveAssemblyReference.cache
+C:\Users\emirh\OneDrive\Masaüstü\RektorlukDers\RektorlukDers\obj\Debug\RektorlukDers.dll
+C:\Users\emirh\OneDrive\Masaüstü\RektorlukDers\RektorlukDers\obj\Debug\RektorlukDers.pdb
+C:\Users\Administrator\Desktop\RektorlukDers (1)\RektorlukDers\RektorlukDers\obj\Debug\RektorlukDers.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RektorlukDers (1)\RektorlukDers\RektorlukDers\obj\Debug\RektorlukDers.dll
+C:\Users\Administrator\Desktop\RektorlukDers (1)\RektorlukDers\RektorlukDers\bin\RektorlukDers.dll.config
+C:\Users\Administrator\Desktop\RektorlukDers (1)\RektorlukDers\RektorlukDers\bin\RektorlukDers.dll
+C:\Users\Administrator\Desktop\RektorlukDers (1)\RektorlukDers\RektorlukDers\bin\RektorlukDers.pdb
+C:\Users\Administrator\Desktop\RektorlukDers (1)\RektorlukDers\RektorlukDers\obj\Debug\RektorlukDers.pdb
